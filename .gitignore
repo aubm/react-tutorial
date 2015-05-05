@@ -1,0 +1,4 @@
+*.swp
+dist/*
+!dist/.gitkeep
+node_modules

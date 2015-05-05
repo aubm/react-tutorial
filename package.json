@@ -1,0 +1,13 @@
+{
+    "name": "React-test",
+    "dependencies": {
+        "react": "*"
+    },
+    "devDependencies": {
+        "grunt": "*",
+        "grunt-browserify": "*",
+        "grunt-contrib-clean": "*",
+        "grunt-contrib-watch": "*",
+        "grunt-react": "*"
+    }
+}
