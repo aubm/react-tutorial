@@ -1,7 +1,8 @@
 {
     "name": "React-test",
     "dependencies": {
-        "react": "*"
+        "react": "*",
+        "marked": "*"
     },
     "devDependencies": {
         "grunt": "*",
